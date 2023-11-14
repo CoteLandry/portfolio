@@ -1,5 +1,5 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Jude Côté-Landry # your name (or website title) here
+logo: "https://media.licdn.com/dms/image/D5635AQEkjiYsXB4prQ/profile-framedphoto-shrink_400_400/0/1681160121531?e=1700589600&v=beta&t=PFvR6LNuNbjSLmTco2xivw8_1oxjpXEqogvk7bP6uHk" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
@@ -10,4 +10,4 @@ description: > # your text below (remove <br> elements if you don't need line br
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
