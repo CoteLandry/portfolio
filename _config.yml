@@ -1,11 +1,11 @@
 title: Jude Côté-Landry # your name (or website title) here
 logo: "https://media.licdn.com/dms/image/D5635AQEkjiYsXB4prQ/profile-framedphoto-shrink_400_400/0/1681160121531?e=1700589600&v=beta&t=PFvR6LNuNbjSLmTco2xivw8_1oxjpXEqogvk7bP6uHk" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Senior Data Analyst
   <br><br>
-  Second description 
+  SQL | R | Power BI | Python | Looker Studio | Azure Data Factory | Zapier
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/cote-landry/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
